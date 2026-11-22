@@ -14,3 +14,7 @@
 
 ### Quick Sort Output 
 <img width="832" height="140" alt="image" src="https://github.com/user-attachments/assets/ebb87314-bc1a-4076-9bc9-a5b1efc64dd8" />
+
+## PRACTICAL_02
+### Linear Search Output 
+<img width="826" height="140" alt="image" src="https://github.com/user-attachments/assets/22d9e9f9-699d-4245-b079-73ee913b902b" />
