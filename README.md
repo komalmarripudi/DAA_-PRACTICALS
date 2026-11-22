@@ -37,3 +37,6 @@
 ### Knapsack Output 
 <img width="832" height="167" alt="image" src="https://github.com/user-attachments/assets/a7699338-2d5f-4474-b9ca-3a12bbefdd14" />
 
+## PRACTICAL_06
+### Matrix Chain Order Output 
+<img width="798" height="120" alt="image" src="https://github.com/user-attachments/assets/b5a7319a-d84b-431b-b726-7e413cabe8ca" />
