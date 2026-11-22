@@ -25,3 +25,8 @@
 ## PRACTICAL_03
 ### Max-Heap Sort Output 
 <img width="792" height="131" alt="image" src="https://github.com/user-attachments/assets/0ce77b1e-66b0-4651-94a8-8323b4b513ca" />
+
+## PRACTICAL_04 
+### Recursive Method Output 
+<img width="806" height="155" alt="image" src="https://github.com/user-attachments/assets/ecae76a1-3339-4348-94db-22f17ead6380" />
+
