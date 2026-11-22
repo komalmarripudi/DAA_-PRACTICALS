@@ -44,3 +44,7 @@
 ## PRACTICAL_07
 ### Making Change Output 
 <img width="823" height="175" alt="image" src="https://github.com/user-attachments/assets/bacc636d-c2ff-48e3-97f1-a88742854deb" />
+
+## PRACTICAL_08
+### DFS AND BFS Output
+<img width="826" height="192" alt="image" src="https://github.com/user-attachments/assets/35728825-a728-4cc1-bb25-df1a881d7916" />
