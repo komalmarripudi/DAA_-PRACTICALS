@@ -11,3 +11,6 @@
 
 ### Merge Sort Output 
 <img width="832" height="157" alt="image" src="https://github.com/user-attachments/assets/bb62223a-ba63-4df6-862f-9b860e56db88" />
+
+### Quick Sort Output 
+<img width="832" height="140" alt="image" src="https://github.com/user-attachments/assets/ebb87314-bc1a-4076-9bc9-a5b1efc64dd8" />
