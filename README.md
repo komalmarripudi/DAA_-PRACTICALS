@@ -8,3 +8,6 @@
 
 ### Insertion Sort Output
 <img width="780" height="162" alt="image" src="https://github.com/user-attachments/assets/99f0c981-b5d1-4966-b66a-ae1c4a40b292" />
+
+### Merge Sort Output 
+<img width="832" height="157" alt="image" src="https://github.com/user-attachments/assets/bb62223a-ba63-4df6-862f-9b860e56db88" />
