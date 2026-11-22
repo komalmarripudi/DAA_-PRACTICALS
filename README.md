@@ -18,3 +18,6 @@
 ## PRACTICAL_02
 ### Linear Search Output 
 <img width="826" height="140" alt="image" src="https://github.com/user-attachments/assets/22d9e9f9-699d-4245-b079-73ee913b902b" />
+
+### Binary Search Output 
+<img width="782" height="145" alt="image" src="https://github.com/user-attachments/assets/a039cd12-39d8-43e4-b3bb-062b67a7cd8c" />
