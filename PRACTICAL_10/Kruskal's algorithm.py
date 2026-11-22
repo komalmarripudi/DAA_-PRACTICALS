@@ -1,57 +1,38 @@
-def find(parent, i):
-    if parent[i] != i:
-        parent[i] = find(parent, parent[i])
-    return parent[i]
 
+def kruskal(edges, vertices):
+    edges.sort()
 
-def union(parent, rank, x, y):
-    root_x = find(parent, x)
-    root_y = find(parent, y)
-
-    if root_x == root_y:
-        return False
-
-    if rank[root_x] < rank[root_y]:
-        parent[root_x] = root_y
-    elif rank[root_x] > rank[root_y]:
-        parent[root_y] = root_x
-    else:
-        parent[root_y] = root_x
-        rank[root_x] += 1
-
-    return True
-
-
-def kruskal(vertices, edges):
     parent = list(range(vertices))
-    rank = [0] * vertices
-
-    edges.sort(key=lambda x: x[2])
-
     mst = []
-    total_cost = 0
+    cost = 0
 
-    for u, v, weight in edges:
-        if union(parent, rank, u, v):
-            mst.append((u, v, weight))
-            total_cost += weight
+    def find(x):
+        while parent[x] != x:
+            x = parent[x]
+        return x
+
+    for w, u, v in edges:
+        root1 = find(u)
+        root2 = find(v)
+
+        if root1 != root2:
+            mst.append((u, v, w))
+            cost += w
+            parent[root1] = root2
 
     print("Minimum Spanning Tree:")
+    for u, v, w in mst:
+        print(u, "-", v, ":", w)
 
-    for u, v, weight in mst:
-        print(u, "-", v, ":", weight)
+    print("Minimum Cost:", cost)
 
-    print("Total Minimum Cost:", total_cost)
-
-
-vertices = 4
 
 edges = [
-    (0, 1, 10),
-    (0, 2, 6),
-    (0, 3, 5),
-    (1, 3, 15),
-    (2, 3, 4)
+    (10, 0, 1),
+    (6, 0, 2),
+    (5, 0, 3),
+    (15, 1, 3),
+    (4, 2, 3)
 ]
 
-kruskal(vertices, edges)
+kruskal(edges, 4)           
