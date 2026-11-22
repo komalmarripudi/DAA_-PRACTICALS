@@ -60,3 +60,7 @@
 ## PRACTICAL_11
 ### Floyd-Warshal Output
 <img width="832" height="237" alt="image" src="https://github.com/user-attachments/assets/8d00b6e5-b750-42f7-9fee-4e803444619b" />
+
+## PRACTICAL_12
+### Travelling Salesman Output
+<img width="800" height="143" alt="image" src="https://github.com/user-attachments/assets/4ac420aa-195e-4c2a-ac6f-70c17dfcf707" />
