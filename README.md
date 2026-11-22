@@ -40,3 +40,7 @@
 ## PRACTICAL_06
 ### Matrix Chain Order Output 
 <img width="798" height="120" alt="image" src="https://github.com/user-attachments/assets/b5a7319a-d84b-431b-b726-7e413cabe8ca" />
+
+## PRACTICAL_07
+### Making Change Output 
+<img width="823" height="175" alt="image" src="https://github.com/user-attachments/assets/bacc636d-c2ff-48e3-97f1-a88742854deb" />
