@@ -30,3 +30,5 @@
 ### Recursive Method Output 
 <img width="806" height="155" alt="image" src="https://github.com/user-attachments/assets/ecae76a1-3339-4348-94db-22f17ead6380" />
 
+### Iterative Method Output 
+<img width="540" height="166" alt="image" src="https://github.com/user-attachments/assets/0de9d213-1652-43f1-ba9f-91ec9c023750" />
