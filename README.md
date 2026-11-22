@@ -52,3 +52,7 @@
 ## PRACTICAL_09
 ### Implement Prim's Output
 <img width="828" height="217" alt="image" src="https://github.com/user-attachments/assets/6c29431a-ca7f-40e0-95c1-65fd30a56b94" />
+
+## PRACTICAL_10 
+### Kruskal's Algorithm Output 
+<img width="815" height="216" alt="image" src="https://github.com/user-attachments/assets/6cd73d52-3711-4a04-a4c6-881264f004f2" />
