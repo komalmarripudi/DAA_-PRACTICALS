@@ -32,3 +32,8 @@
 
 ### Iterative Method Output 
 <img width="540" height="166" alt="image" src="https://github.com/user-attachments/assets/0de9d213-1652-43f1-ba9f-91ec9c023750" />
+
+## PRACTICAL_05
+### Knapsack Output 
+<img width="832" height="167" alt="image" src="https://github.com/user-attachments/assets/a7699338-2d5f-4474-b9ca-3a12bbefdd14" />
+
