@@ -48,3 +48,7 @@
 ## PRACTICAL_08
 ### DFS AND BFS Output
 <img width="826" height="192" alt="image" src="https://github.com/user-attachments/assets/35728825-a728-4cc1-bb25-df1a881d7916" />
+
+## PRACTICAL_09
+### Implement Prim's Output
+<img width="828" height="217" alt="image" src="https://github.com/user-attachments/assets/6c29431a-ca7f-40e0-95c1-65fd30a56b94" />
